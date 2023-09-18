@@ -12,7 +12,7 @@ import { CircleRating } from "../../../components/circleRating/CircleRating";
 import Img from "../../../components/lazyLoadingImage/img";
 import PosterFallback from "../../../assets/no-poster.png";
 import { PlayIcon } from "../Playbtn";
-import VideoPopup from "../../../components/videoPopup/videoPopup";
+import VideoPopup from "../../../components/videoPopup/VideoPopup";
 
 export const DetailsBanner = ({ video, crew }) => {
 
